@@ -144,7 +144,7 @@ FunctionsToExport = 'Add-ITGlueAPIKey',
 
                     'Get-ITGlueCountries',
 
-                    'Get-ITGlueDomainss',
+                    'Get-ITGlueDomains',
 
                     'New-ITGlueFlexibleAssetFields',
                     'Get-ITGlueFlexibleAssetFields',
